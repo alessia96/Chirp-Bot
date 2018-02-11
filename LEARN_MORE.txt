@@ -1,0 +1,37 @@
+/* 
+ * CHIRP_BOT
+ * HackLondon 2016
+ */
+
+LEARN MORE
+
+WHAT IS CHIRP_BOT?
+
+CHIRP_BOT is a treasure hunt platformer puzzle game based on the interaction between PC and mobile device (Android).
+The main aim of the game is to solve the enigmas that the CHIRP_BOT will tell you about.
+CHIRP_BOT will interact with you through its voice, based on CHIRP tunes generated through the Chirp.io API.
+Each tune will be readable through the Robot Translator app (NOT YET AVAILABLE ON PLAY STORE - ASK CHIRP.IO TEAM!)
+and will translate into natural language, in order for the player to get to solve the quest.
+
+
+Credits:
+	Game Design
+Alessia Nigretti
+Govind Venkatesh
+Sayan Chattopadhyay
+Oliver Walters
+
+	Dialogues & Story
+Sayan Chattopadhyay
+
+	Android Interface
+Govind Venkatesh
+
+	Main Menu
+Govind Venkatesh
+Alessia Nigretti
+
+	Object Interaction
+Alessia Nigretti
+
+	
